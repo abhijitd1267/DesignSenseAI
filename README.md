@@ -1,4 +1,4 @@
-# 📱 DesignSenseAI
+# 📱 DesignSense AI
 
 Welcome to **DesignSenseAI** — your friendly AI-powered smartphone design assistant! 🚀  
 This repository includes both a **frontend** and a **backend**, making it easy to spin up the full application locally.
