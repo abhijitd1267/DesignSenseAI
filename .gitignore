@@ -1,0 +1,7 @@
+node_modules
+.venv/
+backend/.cache/
+*.pkl
+reddit_reviews.csv
+__pycache__/
+frontend/dist/
